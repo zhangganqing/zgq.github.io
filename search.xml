@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>hello!</title>
-    <url>/2020/04/24/hello/</url>
-    <content><![CDATA[<h1 id="Are-you-all-right"><a href="#Are-you-all-right" class="headerlink" title="Are you all right?"></a>Are you all right?</h1>]]></content>
+    <title>欢迎！</title>
+    <url>/2020/04/24/%E6%AC%A2%E8%BF%8E%EF%BC%81/</url>
+    <content><![CDATA[<h3 id="不知道写什么好…"><a href="#不知道写什么好…" class="headerlink" title="不知道写什么好…"></a>不知道写什么好…</h3><p>反正是第一篇！！！</p>
+<p>庆祝BOLG搭建完成！</p>
+]]></content>
       <tags>
-        <tag>asd</tag>
+        <tag>第一篇文章！</tag>
       </tags>
   </entry>
 </search>
