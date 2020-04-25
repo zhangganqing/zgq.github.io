@@ -1090,7 +1090,7 @@ pre .javascript .function {
   bottom: 30px;
 }
 .header {
-  background: url(".../image/sun.png");
+  background: url("https://i.loli.net/2020/04/25/4qAXRvltkVxdUfN.jpg");
 }
 .header-inner {
   position: relative;
@@ -1826,7 +1826,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #fff;
+  background: #1712aa;
 }
 .links-of-blogroll {
   font-size: 13px;
